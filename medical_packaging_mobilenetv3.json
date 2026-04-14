@@ -1,0 +1,11 @@
+{
+  "model_name": "mobilenet_v3_small",
+  "image_size": 224,
+  "class_to_idx": {
+    "Conform": 0,
+    "Non-Conform": 1
+  },
+  "best_val_acc": 0.547945205479452,
+  "training_mode": "csv",
+  "labels_csv": "labels_manual1.csv"
+}
