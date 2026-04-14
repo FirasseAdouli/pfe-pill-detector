@@ -1,0 +1,1 @@
+python reference_based_packaging_detector.py predict --model conform_classifier.pth --image MEDIS_img_01_45_01.jpeg
